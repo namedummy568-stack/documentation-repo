@@ -1,1 +1,1 @@
-This is a placeholder for the user guide.
+This is the updated user guide for v2.0 with new features.
